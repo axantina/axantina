@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Natania 👋</h1>
 
@@ -10,7 +13,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/C++%20%2F%20Arduino-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
@@ -19,12 +24,13 @@
 
 I am an Electrical Engineering graduate based in Japan, currently building a technical portfolio in Python, FastAPI, SQL, Data Quality, and Embedded/IoT.
 
-I am interested in Software Engineer, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
+I am interested in Software Engineering, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
 
 ---
 
 ## Focus Areas
 
+- Software engineering fundamentals
 - Backend API development with Python and FastAPI
 - SQL and SQLite database practice
 - Data quality validation and QA mindset
@@ -36,7 +42,8 @@ I am interested in Software Engineer, Data Annotation, IT Support, QA, and Embed
 ## Featured Projects
 
 ### FastAPI Daily Expenses API
-Backend API for daily expense tracking using FastAPI and SQLite.
+Backend API for daily expense tracking using FastAPI and SQLite.  
+Includes user registration, password hashing, email validation, and database integration.
 
 ### FastAPI Stocks API
 REST API practice project for stock inventory management using FastAPI.
@@ -48,7 +55,7 @@ Arduino-based smart greenhouse system using soil moisture sensor, LDR sensor, LC
 
 ## Tech Stack
 
-Python · FastAPI · SQL · C++ / Arduino · Git · GitHub · Excel
+Python · FastAPI · SQL · SQLite · C++ / Arduino · Git · GitHub · Excel
 
 ---
 
@@ -57,3 +64,10 @@ Python · FastAPI · SQL · C++ / Arduino · Git · GitHub · Excel
 - Indonesian: Native
 - English: Business level
 - Japanese: JLPT N2
+
+---
+
+## 日本語対応
+
+日本語でのコミュニケーションが可能です。  
+日本での品質管理・調達サポート経験があり、現在はソフトウェアエンジニア、データアノテーション、ITサポート、QA、組込み/IoT関連職に関心があります。
