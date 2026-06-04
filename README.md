@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="GitHub Banner" width="100%" />
+  <img src="assets/github-banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 ## About Me
 
-I am an Electrical Engineering graduate based in Japan, currently building a technical portfolio in Software Engineering, Data Quality, and Embedded/IoT.
+I am an Electrical Engineering graduate based in Japan, building a technical portfolio across software engineering, data quality, and embedded/IoT.
 
 I am interested in Software Engineering, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
 
@@ -12,7 +12,6 @@ I am interested in Software Engineering, Data Annotation, IT Support, QA, and Em
 
 ## Focus Areas
 
-- Software engineering fundamentals
 - Backend API development with Python and FastAPI
 - SQL and SQLite database practice
 - Data quality validation and QA mindset
@@ -23,14 +22,17 @@ I am interested in Software Engineering, Data Annotation, IT Support, QA, and Em
 
 ## Featured Projects
 
-### FastAPI Daily Expenses API
+### [FastAPI Daily Expenses API](https://github.com/axantina/fastapi-daily-expenses)
+
 Backend API for daily expense tracking using FastAPI and SQLite.  
 Includes user registration, password hashing, email validation, and database integration.
 
-### FastAPI Stocks API
+### [FastAPI Stocks API](https://github.com/axantina/fastapi-stocks-api)
+
 REST API practice project for stock inventory management using FastAPI.
 
-### Embedded IoT Smart Greenhouse
+### [Embedded IoT Smart Greenhouse](https://github.com/axantina/embedded-iot-smart-greenhouse)
+
 Arduino-based smart greenhouse system using soil moisture sensor, LDR sensor, LCD I2C, keypad, relay, LED, and water pump control.
 
 ---
