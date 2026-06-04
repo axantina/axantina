@@ -19,7 +19,7 @@
 
 I am an Electrical Engineering graduate based in Japan, currently building a technical portfolio in Python, FastAPI, SQL, Data Quality, and Embedded/IoT.
 
-I am interested in Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
+I am interested in Software Engineer, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
 
 ---
 
