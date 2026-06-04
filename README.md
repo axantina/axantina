@@ -2,27 +2,9 @@
   <img src="assets/github-banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Natania 👋</h1>
-
-<p align="center">
-  Electrical Engineering graduate based in Japan <br>
-  Python · FastAPI · SQL · Data Quality · Embedded/IoT · JLPT N2
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++%20%2F%20Arduino-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
----
-
 ## About Me
 
-I am an Electrical Engineering graduate based in Japan, currently building a technical portfolio in Python, FastAPI, SQL, Data Quality, and Embedded/IoT.
+I am an Electrical Engineering graduate based in Japan, currently building a technical portfolio in Software Engineering, Data Quality, and Embedded/IoT.
 
 I am interested in Software Engineering, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
 
