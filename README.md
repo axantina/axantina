@@ -22,18 +22,18 @@ I am interested in Software Engineering, Data Annotation, IT Support, QA, and Em
 
 ## Featured Projects
 
-### [FastAPI Daily Expenses API](https://github.com/axantina/fastapi-daily-expenses)
+### [FastAPI Daily Expenses API](https://github.com/axantina/fastapi-daily-expenses-api)
 
 Backend API for daily expense tracking using FastAPI and SQLite.  
-Includes user registration, password hashing, email validation, and database integration.
+Includes authentication, password hashing, email validation, and database integration.
 
-### [FastAPI Stocks API](https://github.com/axantina/fastapi-stocks-api)
+### [LoRa WSN Monitoring System](https://github.com/axantina/lora-wsn-monitoring-system)
 
-REST API practice project for stock inventory management using FastAPI.
+ESP32 and LoRa-based sensor monitoring system with DHT11, soil moisture sensor, SD card logging, PHP/MySQL backend, and QoS analysis.
 
 ### [Embedded IoT Smart Greenhouse](https://github.com/axantina/embedded-iot-smart-greenhouse)
 
-Arduino-based smart greenhouse system using soil moisture sensor, LDR sensor, LCD I2C, keypad, relay, LED, and water pump control.
+Arduino-based smart greenhouse system with sensor monitoring, LCD display, keypad input, relay control, and water pump automation.
 
 ---
 
