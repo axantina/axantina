@@ -4,54 +4,66 @@
 
 ## About Me
 
-I am an Electrical Engineering graduate based in Japan, building a technical portfolio across software engineering, data quality, and embedded/IoT.
+I am an Electrical Engineering graduate based in Japan, currently building my technical portfolio in software engineering, data quality, QA, and embedded/IoT.
 
-I am interested in Software Engineering, Data Annotation, IT Support, QA, and Embedded/IoT-related roles.
+I have experience in quality control, procurement support, data handling, and technical documentation.
+I am currently improving my skills through project-based development and Python problem-solving practice.
 
 ---
 
 ## Focus Areas
 
-- Backend API development with Python and FastAPI
-- SQL and SQLite database practice
-- Data quality validation and QA mindset
-- Embedded systems and IoT projects using Arduino and sensors
-- Japanese, English, and Indonesian communication
+* Backend API development with Python and FastAPI
+* SQL and SQLite database practice
+* Data quality validation and QA mindset
+* Embedded systems and IoT projects using Arduino, ESP32, and sensors
+* Python fundamentals and problem solving
+* Japanese, English, and Indonesian communication
 
 ---
 
-## Featured Projects
+## Main Repositories
 
-### [FastAPI Daily Expenses API](https://github.com/axantina/fastapi-daily-expenses-api)
+### [Portfolio](https://github.com/axantina/Portfolio)
 
-Backend API for daily expense tracking using FastAPI and SQLite.  
-Includes authentication, password hashing, email validation, and database integration.
+A structured collection of my technical projects, organized by category:
 
-### [LoRa WSN Monitoring System](https://github.com/axantina/lora-wsn-monitoring-system)
+* Backend
+* Frontend
+* Data Analysis
+* QA
+* Embedded IoT
 
-ESP32 and LoRa-based sensor monitoring system with DHT11, soil moisture sensor, SD card logging, PHP/MySQL backend, and QoS analysis.
+This repository includes project-based work such as FastAPI APIs, IoT systems, data quality validation, and frontend practice.
 
-### [Embedded IoT Smart Greenhouse](https://github.com/axantina/embedded-iot-smart-greenhouse)
+### [HackerRank](https://github.com/axantina/HackerRank)
 
-Arduino-based smart greenhouse system with sensor monitoring, LCD display, keypad input, relay control, and water pump automation.
+A collection of my Python practice, HackerRank solutions, and coding fundamentals.
+
+This repository includes:
+
+* Python introduction exercises
+* Basic syntax practice
+* Problem-solving exercises
+* Python fundamentals and OOP practice
 
 ---
 
 ## Tech Stack
 
-Python · FastAPI · SQL · SQLite · C++ / Arduino · Git · GitHub · Excel
+Python · FastAPI · SQL · SQLite · C++ / Arduino · ESP32 · Git · GitHub · Excel
 
 ---
 
 ## Languages
 
-- Indonesian: Native
-- English: Business level
-- Japanese: JLPT N2
+* Indonesian: Native
+* English: Business level
+* Japanese: JLPT N2
 
 ---
 
 ## 日本語対応
 
-日本語でのコミュニケーションが可能です。  
+日本語でのコミュニケーションが可能です。
 日本での品質管理・調達サポート経験があり、現在はソフトウェアエンジニア、データアノテーション、ITサポート、QA、組込み/IoT関連職に関心があります。
